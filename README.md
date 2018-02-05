@@ -10,4 +10,4 @@ Wordpress en-US 4.9.2 with SQLite integration (no MySQL) and local dev start scr
 
 - If your webbrowser doesn't start, you can eather install python to your device or just open `http://localhost:4455` manually
 
-- !!! Note !!!: If you consider to use this build for production, you should generate your own secret keys! Open `public/wp-config.php` and scroll down until **Authentication Unique Keys and Salts**. Use the wordpress key generator to generate your individual keys.
+- _!!! <u>Note</u> !!! If you consider to use this build for production, you should generate your own secret keys! Open `public/wp-config.php` and scroll down until **Authentication Unique Keys and Salts**. Use the wordpress key generator to generate your individual keys._
