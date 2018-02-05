@@ -1,5 +1,5 @@
-# wordpress_EN-sqlite-localdev
-Wordpress en-US 4.9.2 with SQLite integration (no MySQL) and local dev start script, which starts the integrated php server.
+# wordpress-sqlite-localdev
+Wordpress 4.9.2 multilingual with SQLite integration (no MySQL) and local dev start script, which starts the integrated php server.
 
 ## Quick Start
 - Clone repository to your prefered directory running<br>
